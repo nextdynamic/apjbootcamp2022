@@ -541,3 +541,7 @@ show_files_as_dataframe(table_location).display();
 # MAGIC %sql
 # MAGIC 
 # MAGIC select * from v_stores_country_limited;
+
+# COMMAND ----------
+
+
