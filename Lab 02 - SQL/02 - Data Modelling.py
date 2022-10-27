@@ -28,13 +28,13 @@
 # COMMAND ----------
 
 # MAGIC %sql
-# MAGIC USE <>
+# MAGIC USE timothy_brown_ap_juice_db
 
 # COMMAND ----------
 
 # MAGIC %sql
 # MAGIC 
-# MAGIC Show tables in <>
+# MAGIC Show tables in timothy_brown_ap_juice_db
 
 # COMMAND ----------
 
@@ -184,3 +184,7 @@
 
 # MAGIC %sql
 # MAGIC Select * from apj_sale_items_fact
+
+# COMMAND ----------
+
+
